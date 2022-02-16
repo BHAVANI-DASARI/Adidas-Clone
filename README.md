@@ -1,7 +1,7 @@
 # Adidas-Clone
 Adidas clone, web application for purchasing clothes, shoes and sports related clothes in online.
 <br/>
-Deployment Link :- https://rohit753.github.io/Adidas-Clone/index.html
+Deployment Link :- https://rohit753.github.io/Adidas-Clone/index.html<br/>
 we were given a project to clone the Adidas website. Our project demonstrates a basic flow of an e-commerce page, where a customer can view and filter products, add their product to a cart and place his or her happy order.
 
 Adidas is a German multinational corporation, founded and headquartered in Herzogenaurach, Germany, that designs and manufactures shoes, clothing and accessories. It is the largest sportswear manufacturer in Europe, and the second largest in the world, after Nike.
